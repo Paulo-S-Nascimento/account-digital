@@ -7,8 +7,6 @@ Este projeto implementa uma tela de criação de conta para um banco digital, pe
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Tecnologias Utilizadas
 
@@ -29,3 +27,6 @@ cd nome-do-repositorio
 
 # Instale as dependências
 npm install
+
+# Após instalar as dependências, inicie o projeto
+npm run dev
